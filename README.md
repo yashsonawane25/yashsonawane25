@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yash Sonawane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate DevOps And Cloud Professional </h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b76113j35uaz8jr5vfawdlvc5f5lu415c8zk6lx1wqr7q&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsonawane25&label=Profile%20views&color=0e75b6&style=flat" alt="yashsonawane25" /> </p>
